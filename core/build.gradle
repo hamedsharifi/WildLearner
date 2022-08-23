@@ -1,0 +1,54 @@
+plugins {
+    id 'com.android.library'
+    id 'org.jetbrains.kotlin.android'
+    id 'kotlin-parcelize'
+}
+
+android {
+    compileSdk versions.compileSdk
+
+    defaultConfig {
+        minSdk versions.minSdk
+        targetSdk 32
+
+        testInstrumentationRunner versions.testInstrumentationRunner
+        consumerProguardFiles versions.consumerProguardFiles
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+    kotlinOptions {
+        jvmTarget = '11'
+    }
+}
+
+dependencies {
+
+    implementation libs.corKtx
+    implementation libs.appcompatV7
+    implementation libs.supportDesign
+
+    //coroutine
+    implementation libs.coroutinesAndroid
+
+    //test
+    testImplementation libs.junit
+    androidTestImplementation libs.testExtJunit
+    androidTestImplementation libs.espressoCore
+    testImplementation libs.koinTest
+    testImplementation libs.mockk
+    testImplementation libs.archCoreTesting
+    testImplementation libs.coroutinesTest
+    testImplementation libs.googleTruth
+    androidTestImplementation libs.googleTruth
+    implementation libs.gson
+}
+

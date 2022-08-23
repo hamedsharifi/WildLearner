@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wildlearnerCodingChallenge.iml" filepath="$PROJECT_DIR$/.idea/modules/wildlearnerCodingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/wildlearnerCodingChallenge.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/wildlearnerCodingChallenge.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/wildlearnerCodingChallenge.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/wildlearnerCodingChallenge.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/wildlearnerCodingChallenge.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/wildlearnerCodingChallenge.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/wildlearnerCodingChallenge.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/wildlearnerCodingChallenge.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/wildlearnerCodingChallenge.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/wildlearnerCodingChallenge.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/wildlearnerCodingChallenge.core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/wildlearnerCodingChallenge.core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/wildlearnerCodingChallenge.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/wildlearnerCodingChallenge.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/wildlearnerCodingChallenge.core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/wildlearnerCodingChallenge.core.unitTest.iml" />
+    </modules>
+  </component>
+</project>

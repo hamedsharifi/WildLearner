@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WildLearner</string>
+    <string name="empty_message">Please enter a search query</string>
+    <string name="title">title</string>
+    <string name="theTitle">title</string>
+    <string name="link">link</string>
+    <string name="description">description</string>
+</resources>

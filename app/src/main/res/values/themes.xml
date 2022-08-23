@@ -1,0 +1,66 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >@color/white</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <!-- Customize your theme here. -->
+    </style>
+    
+    <style name="font20sp_medium_black">
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="font20sp_medium_green500">
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">@color/green_500</item>
+    </style>
+    <style name="font14sp_regular_gray600">
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/gray_600</item>
+    </style>
+    <style name="regular_item">
+        <item name="android:textSize">14sp</item>
+        <item name="android:padding">2dp</item>
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="link_item">
+        <item name="android:padding">2dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/blue</item>
+    </style>
+    <style name="font12sp_medium_white">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="imageViewRipple">
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="buttonRipple">
+        <item name="android:foreground">?selectableItemBackground</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="divider">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/divider</item>
+    </style>
+
+</resources>

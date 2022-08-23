@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.arthurivanets.adapster:adapster:1.0.13@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5aa519031837d5f80bcba3e75d3361d1/transformed/jetified-adapster-1.0.13/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5aa519031837d5f80bcba3e75d3361d1/transformed/jetified-adapster-1.0.13/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5aa519031837d5f80bcba3e75d3361d1/transformed/jetified-adapster-1.0.13/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arthurivanets.adapster/adapster/1.0.13/6feac5e4ea80cc6f0d10f68dc898308af15a7411/adapster-1.0.13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arthurivanets.adapster/adapster/1.0.13/15b6f1a89c51644730da61c8806decde8cd43019/adapster-1.0.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

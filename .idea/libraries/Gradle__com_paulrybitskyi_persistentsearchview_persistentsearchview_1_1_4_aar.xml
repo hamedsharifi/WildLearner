@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.paulrybitskyi.persistentsearchview:persistentsearchview:1.1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/950a4661363ad6f467a58b287bac549e/transformed/jetified-persistentsearchview-1.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/950a4661363ad6f467a58b287bac549e/transformed/jetified-persistentsearchview-1.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/950a4661363ad6f467a58b287bac549e/transformed/jetified-persistentsearchview-1.1.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulrybitskyi.persistentsearchview/persistentsearchview/1.1.4/422db331d2fe1b22632b6ac6118b67e59871035d/persistentsearchview-1.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulrybitskyi.persistentsearchview/persistentsearchview/1.1.4/b78788c18308854f1d6878935911466942dc1ee7/persistentsearchview-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

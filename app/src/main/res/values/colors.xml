@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#202020</color>
+    <color name="blue">#0F78C8</color>
+    <color name="black_transparent">#88202020</color>
+
+    <color name="gray_600">#797979</color>
+    <color name="divider">#88E3DDDD</color>
+
+    <color name="green_400">#9FC747</color>
+    <color name="green_500">#86B817</color>
+    <color name="green_700">#508200</color>
+
+    <color name="background">#D6D0D0</color>
+    <color name="small_pictures_pager_background">#80202020</color>
+</resources>
